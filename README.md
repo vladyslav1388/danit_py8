@@ -10,3 +10,4 @@ new text3
 new text4
 
 feature
+feature2
